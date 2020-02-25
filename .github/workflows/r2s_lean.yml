@@ -117,3 +117,4 @@ jobs:
         with:
           name: Muguang_NanoPi-R2S
           path: ./artifact/
+
