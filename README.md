@@ -1,0 +1,1 @@
+# nanopi-r2s-autocompile
